@@ -1,0 +1,11 @@
+First of all I visited the API website registered and got an API key.
+Now I opened Python and started to write my script.
+I imported a module called requests and wrote a function called: "get_stock_quotes".
+Now I put the url from alphavantage 
+into a variable that I called url and I made some changes for example:
+adding my api key and the name of the equity.
+Now I added the url to the module requests function to load the data into a JSON file.
+Finally I printed out all of the data and picked everythingimportant out. 
+Now I put all of it in different variables to slightly organize the data.
+When I had all of the data I put everything into a variable called: "complete_data"
+and formatted everything so its looks organized and sorted. 
